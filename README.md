@@ -19,3 +19,4 @@ The Fullstack Developer Path aims to teach you everything you need to become a J
 Happy Coding!
 
 testing testing 123
+Scrimba is great
